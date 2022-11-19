@@ -8,7 +8,7 @@
     "highcharts-react-official": "^2.2.2",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
-    "react-scripts": "3.2.0",
+    "react-scripts": "5.0.1",
     "react-virtualized": "^9.21.1",
     "styled-components": "^4.4.0"
   },
